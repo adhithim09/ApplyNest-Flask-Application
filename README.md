@@ -15,7 +15,4 @@ Web application for job/internship postings, applications, and administrative ta
 - Flask framework
 - SQLite3 (for the database)
 
-- <h2>Design/Layout</h2>
-
-![Logo](logo.png)
 
